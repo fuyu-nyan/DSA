@@ -3,6 +3,8 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Project Path="HeapSort/HeapSort.vcxproj" Id="f0fd1ff9-07b7-4f72-a9eb-aa3df5f2084d" />
   <Project Path="InsertionSort/InsertionSort.vcxproj" Id="cd9cd651-ca65-43f3-ae63-e7c8227031f1" />
+  <Project Path="MergeSort/MergeSort.vcxproj" Id="56e1fe32-3e2f-4549-906d-b4a1984165ca" />
   <Project Path="Project1/Project1.vcxproj" Id="b0617ab1-a90a-45f6-8424-2901c5a03e43" />
 </Solution>
