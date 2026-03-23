@@ -7,4 +7,7 @@
   <Project Path="InsertionSort/InsertionSort.vcxproj" Id="cd9cd651-ca65-43f3-ae63-e7c8227031f1" />
   <Project Path="MergeSort/MergeSort.vcxproj" Id="56e1fe32-3e2f-4549-906d-b4a1984165ca" />
   <Project Path="Project1/Project1.vcxproj" Id="b0617ab1-a90a-45f6-8424-2901c5a03e43" />
+  <Project Path="QuickSort/QuickSort.vcxproj" Id="27f78f41-3b9f-4f7e-b663-33a7001eebd7" />
+  <Project Path="SapXepDiem2D/SapXepDiem2D.vcxproj" Id="feac0bb2-ecd0-4a53-8ca5-d5c74e762af0" />
+  <Project Path="SxMangHS/SxMangHS.vcxproj" Id="9ff962b8-e2a3-48da-baba-c6e76c01415f" />
 </Solution>
